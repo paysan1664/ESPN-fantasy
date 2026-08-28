@@ -1,0 +1,133 @@
+{
+  "league_name": "NFLQC",
+  "teams_count": 14,
+  "current_week": 0,
+  "teams": [
+    {
+      "id": 1,
+      "name": "Plam891",
+      "abbrev": "TM1",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 2,
+      "name": "Vikings FTW",
+      "abbrev": "TM2",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 3,
+      "name": "Bills mafia",
+      "abbrev": "BM",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 4,
+      "name": "BigRed",
+      "abbrev": "TM4",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 5,
+      "name": "Steelteam",
+      "abbrev": "TM5",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 6,
+      "name": "the pouliche winner",
+      "abbrev": "TM6",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 7,
+      "name": "December Crash",
+      "abbrev": "TM7",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 8,
+      "name": "TheFarmerBeer",
+      "abbrev": "TFB",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 9,
+      "name": "Hopeless",
+      "abbrev": "TM9",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 10,
+      "name": "Pretty fly for a Pats fan",
+      "abbrev": "TM10",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 11,
+      "name": "And Justice for the Horseshoe",
+      "abbrev": "TM11",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 12,
+      "name": "Nooooon pas les Bengals",
+      "abbrev": "TM12",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 13,
+      "name": "les osti branleux",
+      "abbrev": "TM13",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    },
+    {
+      "id": 14,
+      "name": "lets go pats",
+      "abbrev": "TM14",
+      "wins": 0,
+      "losses": 0,
+      "points_for": 0.0,
+      "roster": []
+    }
+  ]
+}
